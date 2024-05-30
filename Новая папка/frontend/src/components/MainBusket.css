@@ -1,0 +1,13 @@
+.flex-card_busket {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	gap: 100px;
+	margin-top: 50px;
+	margin-bottom: 100px;
+}
+.text-score {
+	display: flex;
+	justify-content: end;
+	margin-bottom: 100px;
+}

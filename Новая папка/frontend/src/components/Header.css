@@ -1,0 +1,55 @@
+.header {
+	background-color: #6d5b6a;
+	position: sticky;
+	top: 0;
+}
+.header-flex {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 60px;
+}
+.address {
+	display: flex;
+	gap: 10px;
+}
+.busket-link {
+	display: flex;
+	gap: 10px;
+}
+.block-2 {
+	display: flex;
+	gap: 40px;
+}
+.enter-reg {
+	display: flex;
+	gap: 20px;
+}
+.enter {
+	color: white;
+}
+.registration {
+	color: white;
+}
+.text-address {
+	color: white;
+	font-weight: 300;
+}
+.busket-price {
+	color: white;
+}
+.logo{
+	position: absolute;
+	left:48%
+}
+.busket{
+	display: flex;
+	gap: 16px;
+	align-items: center;
+}
+.exit{
+	color: white;
+	font-weight: 600;
+	font-size: 20px;
+	cursor: pointer;
+}

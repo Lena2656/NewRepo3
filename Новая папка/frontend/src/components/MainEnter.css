@@ -1,0 +1,36 @@
+.block-flex {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	height: 88vh;
+}
+.enter-2 {
+	width: 350px;
+	height: 250px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	gap: 10px;
+	color: black;
+	border-radius: 10px;
+}
+input {
+	width: 296px;
+	height: 40px;
+}
+.button-enter {
+	width: 296px;
+	height: 40px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #6aae55;
+	color: white;
+	border-radius: 10px;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 24px;
+	letter-spacing: 0%;
+	margin-top: 5%;
+	border: none;
+}

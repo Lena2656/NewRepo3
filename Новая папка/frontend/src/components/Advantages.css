@@ -1,0 +1,24 @@
+.flex-adv {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-top: 100px;
+	margin-bottom: 150px;
+}
+span {
+	color: #6aae55;
+}
+.text-adv {
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 24px;
+	letter-spacing: 0%;
+	text-align: center;
+}
+.adv-1 {
+	max-width: 215px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}

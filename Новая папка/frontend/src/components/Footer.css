@@ -1,0 +1,15 @@
+.footer {
+	background-color: #6d5b6a;
+	max-height: 60px;
+	width: 100%;
+}
+.flex-footer {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.author {
+	color: aliceblue;
+	margin: 5px 0;
+}

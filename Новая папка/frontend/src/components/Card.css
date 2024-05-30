@@ -1,0 +1,35 @@
+.to-busket {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 210px;
+	height: 50px;
+	background-color: #6aae55;
+	margin-top: 45px;
+	color: white;
+	border-radius: 10px;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 24px;
+	letter-spacing: 0%;
+	border: none;
+	cursor: pointer;
+}
+.price {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: 10px;
+}
+.flex-block {
+	max-width: 263px;
+	max-height: 422px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	border-radius: 10px;
+}
+.img-card {
+	margin-bottom: 25px;
+}
